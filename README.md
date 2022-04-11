@@ -76,7 +76,7 @@ The data will be collected using API Dojo from Rapid API website. The link is pr
 * ## Crypto Analysis and Plots
     * Price Comparisons - Comparing the price points on a daily basis over a 2 year timeframe.  ![Crypto Prices](Resources/crypto_price.png)
 
-    * Aggregate Returns - On a weekly basis, the fucntion will calculate the percentage change of the original. Fairly cut and dry that week over week the best investment option would be bitcoin. ![Crypto Aggregate Returns](Resources/crypto_agg_returns.PNG)
+    * Aggregate Returns - On a weekly basis, the function will calculate the percentage change of the original. Fairly cut and dry that week over week the best investment option would be bitcoin. ![Crypto Aggregate Returns](Resources/crypto_agg_returns.PNG)
 
     * Crypto Daily Returns - The higher change in percentage of daily returns can be attributed to the fact that a small change in luna will have a much larger impact on the daily returns percentage then it would have on bitcoin. The graph can also help us determine which investment could be a more stable choice. ![Crypto Pct Change](Resources/crytpo_perc_change.png)
 
